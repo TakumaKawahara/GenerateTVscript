@@ -1,4 +1,4 @@
-# GenerateTVscript
+# GenerateTVscript2
 Udacity Deep Learning Foundation Nanodegree Program(DLND)  
 Project Generate a TV script using a recurrent neural network.  
   
